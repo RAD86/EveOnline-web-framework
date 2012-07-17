@@ -1,0 +1,22 @@
+  	
+
+
+    <h4>Features</h4>
+			<ul>
+				<li>Automated IGB trust functionality</li>
+				<li>Ingame registration</li>
+				<li>Once registered ingame you can login out of game</li>
+				<li>Users will recieve online balances</li>
+				<li>Ingame deposits are tracked and updated out of game on the site via the EVE API KEY</li>
+				<li>Database & api Class coded up, easy to setup and modify</li>
+				<li>Semantic XHTML coded, minimal styling so you can do the fun part :)</li>
+				<li>More to come! it's in early stages..</li>
+			</ul>
+		<h4>The code</h4>
+			<ul>
+				<li>PHP (OOP)</li>
+				<li>MySQL</li>
+				<li>JavaScript</li>
+				<li><a href="http://wiki.eveonline.com/en/wiki/EVE_API_Functions" target="_blank">Eve API key &amp; XML&raquo;</a></li>
+				<li>CronJob</li>
+				<li>Semantic XHTML Strict! coded</li>
