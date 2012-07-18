@@ -1,0 +1,2 @@
+<h1 style="color:green;text-align:center;">Setup Comeplete!</h1>
+<p style="text-align:center;">You must now delete this setup folder, to prevent your site from being hacked!<br/>Then you can enjoy your app! all the best NickyYo</p>
