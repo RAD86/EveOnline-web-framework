@@ -1,8 +1,9 @@
-  	
+A simple framework to help you produce great websites, may it be for your corp or a lottery site for the eve community.  
 
 Features
+-----------
 
-Automated IGB trust functionalit
+Automated IGB trust functionality
 Ingame registration
 Once registered ingame you can login out of game
 Users will recieve online balances
@@ -13,10 +14,10 @@ More to come! it's in early stages..
 
 
 The code
+-----------
 
 PHP (OOP)
 MySQL
 JavaScript
-http://wiki.eveonline.com/en/wiki/EVE_API_Functions
 CronJob
 Semantic XHTML Strict! coded
